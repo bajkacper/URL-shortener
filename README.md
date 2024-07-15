@@ -16,7 +16,7 @@ A simple URL shortener application built with Go. This application allows users 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/URL-shortener.git
+    git clone https://github.com/bajkacper/URL-shortener.git
     cd URL-shortener
     ```
 
